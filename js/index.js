@@ -1,3 +1,4 @@
+// TEST LOL
 $(document).ready(function () {
     var stage = new createjs.Stage("demoCanvas");
 
